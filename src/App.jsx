@@ -68,7 +68,8 @@ function AppContent() {
       <KentHealthcarePopup />
       
       {/* Unified Contact Widget */}
-      <UnifiedContactWidget />
+      
+      <FloatingContactButtons />
     </div>
   );
 }
